@@ -3,4 +3,6 @@
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
+def display_board()
+
 display_board(board)
