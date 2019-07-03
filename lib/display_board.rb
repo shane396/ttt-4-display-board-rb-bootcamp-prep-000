@@ -3,6 +3,9 @@
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def display_board()
-
+def display_board
+  #{board[0]},| #{board[1]}
+end
+  
+  
 display_board(board)
